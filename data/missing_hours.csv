@@ -1,0 +1,18 @@
+employee_id,activity_date,missing_hours,reason_text
+101,2025-01-15,2,Partial training overlap
+101,2025-01-16,2,School program overlap
+101,2025-01-22,1.5,Training attendance
+101,2025-01-27,8,Vacation day
+102,2025-01-14,0.5,Late timesheet entry
+102,2025-01-20,8,Vacation day
+102,2025-01-21,8,Vacation day
+102,2025-01-24,1.5,Training attendance
+103,2025-01-16,4,Half day reported
+103,2025-01-22,1.5,Training attendance
+103,2025-01-23,8,Sick leave
+103,2025-01-24,1,Training overlap
+104,2025-01-14,8,Vacation day
+104,2025-01-15,1,Training attendance
+104,2025-01-20,8,Vacation day
+104,2025-01-24,4,School half day
+104,2025-01-29,1,Training attendance
